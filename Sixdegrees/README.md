@@ -1,3 +1,8 @@
+Overview:
+  - Takes in large list of movie names and its actors
+  - Input: 2 actors
+  - Output: Finds a shortest correlated movie path between the actors
+
 main.cpp 
 - reads movielist input and creates graph
 - reads input and calls methods in graphsearch.cpp to find pathway between actors
